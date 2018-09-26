@@ -7,8 +7,9 @@ Project 1
     Production URL: http://blink.dreamhosters.com/p1dwa/
 
 Outside resources
+None besides our issues forum.
+For quotes, the website: https://www.brainyquote.com/authors/dante_alighieri
 
-None besidres our issues forum.
 
 
 
