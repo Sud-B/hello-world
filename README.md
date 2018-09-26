@@ -3,12 +3,12 @@ Practice for fall 2018 semester Dynamic web applications
 
 Project 1
 
-    By: your first and last name
-    Production URL: http://p1.yourdomain.com
+    By: Sudhir Bhargava
+    Production URL: http://blink.dreamhosters.com/p1dwa/
 
 Outside resources
 
-your list of outside resources go here
-Notes for instructor
+None besidres our issues forum.
 
-any notes for me to refer to while grading; if none, omit this section
+
+
