@@ -1,0 +1,17 @@
+
+#photo{
+	border:3px solid darkblue;
+	padding: 0.5cm;
+	align: center;
+}
+body {  background-color: #AAE4FF;
+		color:	darkblue;
+		font-family: verdana, arial, helvetica, sans-serif;
+		width: 800px;
+		margin: 0 auto;
+     }
+h1, h2 {	
+	color: darkblue;
+	text-align: center;
+   }
+   
